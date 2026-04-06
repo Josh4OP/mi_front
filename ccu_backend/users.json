@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Diego Ramos",
+    "email": "diego@utb.edu.co",
+    "password": "password1234",
+    "profile_pic": "/uploads/profile_pics/diego_utb_edu_co_profile.png"
+  },
+  {
+    "name": "Josh Ortega",
+    "email": "josh@utb.edu.co",
+    "password": "contrasena456"
+  },
+  {
+    "name": "Luis Salas",
+    "email": "luis@utb.edu.co",
+    "password": "pass999"
+  },
+  {
+    "name": "Juan Zúñiga",
+    "email": "juanz@utb.edu.co",
+    "password": "juan1234"
+  },
+  {
+    "name": "Robert Parra",
+    "email": "robert@utb.edu.co",
+    "password": "robert123"
+  },
+  {
+    "name": "Jose Cáceres",
+    "email": "josec@utb.edu.co",
+    "password": "pass1234"
+  },
+  {
+    "name": "Pedro López",
+    "email": "plopez@utb.edu.co",
+    "password": "1234pass"
+  }
+]
