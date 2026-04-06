@@ -5,7 +5,7 @@ import 'package:http_parser/http_parser.dart';
 import 'package:path/path.dart' as path;
 
 class AuthService {
-  static const String valuei = "192.168.X.XX"; // Antes de ejecutar, poner tu IP de IPv4
+  static const String valuei = "10.143.4.76"; // Antes de ejecutar, poner tu IP de IPv4
 
   static String get baseUrl {
     if (kIsWeb) {
